@@ -1052,7 +1052,7 @@
 					"@loader_path/Frameworks",
 				);
 				MACH_O_TYPE = mh_dylib;
-				MARKETING_VERSION = 6.0.0;
+				MARKETING_VERSION = 6.0.1;
 				MODULEMAP_FILE = Carthage/Build/iOS/GoogleMaps.framework/Modules/module.modulemap;
 				OTHER_LDFLAGS = "-ObjC";
 				PRODUCT_BUNDLE_IDENTIFIER = com.yassir.ios.GoogleMaps;
@@ -1321,7 +1321,7 @@
 					"@loader_path/Frameworks",
 				);
 				MACH_O_TYPE = mh_dylib;
-				MARKETING_VERSION = 6.0.0;
+				MARKETING_VERSION = 6.0.1;
 				MODULEMAP_FILE = Carthage/Build/iOS/GoogleMaps.framework/Modules/module.modulemap;
 				OTHER_LDFLAGS = "-ObjC";
 				PRODUCT_BUNDLE_IDENTIFIER = com.yassir.ios.GoogleMaps;
@@ -1352,7 +1352,7 @@
 					"@loader_path/Frameworks",
 				);
 				MACH_O_TYPE = mh_dylib;
-				MARKETING_VERSION = 6.0.0;
+				MARKETING_VERSION = 6.0.1;
 				MODULEMAP_FILE = Carthage/Build/iOS/GoogleMaps.framework/Modules/module.modulemap;
 				OTHER_LDFLAGS = "-ObjC";
 				PRODUCT_BUNDLE_IDENTIFIER = com.yassir.ios.GoogleMaps;

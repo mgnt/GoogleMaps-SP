@@ -1,5 +1,7 @@
 # Google Maps Swift Package
 
+Forked from https://github.com/YAtechnologies/GoogleMaps-SP
+
 ## Requirements
 * [iOS 12.0](https://wikipedia.org/wiki/IOS_12) or later.
 * [Xcode 12.0](https://developer.apple.com/xcode) or later.
@@ -9,7 +11,7 @@
 
 ```swift
 dependencies: [
-    .package(url: "https://github.com/YAtechnologies/GoogleMaps-SP.git", .upToNextMinor(from: "6.0.0"))
+    .package(url: "https://github.com/mgnt/GoogleMaps-SP.git", .upToNextMinor(from: "6.0.1"))
 ]
 ```
 
